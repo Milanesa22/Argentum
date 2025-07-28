@@ -1,0 +1,44 @@
+# Core async and HTTP libraries
+aiohttp==3.9.1
+aiofiles==23.2.1
+asyncio-mqtt==0.16.1
+
+# Redis async client
+aioredis==2.0.1
+
+# Configuration and environment
+python-dotenv==1.0.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+
+# Logging
+loguru==0.7.2
+
+# Security and validation
+cryptography==41.0.7
+bleach==6.1.0
+
+# Social media APIs
+tweepy==4.14.0
+Mastodon.py==1.8.1
+discord.py==2.3.2
+
+# PayPal integration
+paypalrestsdk==1.13.3
+
+# HTTP client for OpenRouter/OpenAI
+httpx==0.25.2
+
+# Data processing and utilities
+python-dateutil==2.8.2
+schedule==1.2.0
+
+# Testing (optional but recommended)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-mock==3.12.0
+
+# Development tools
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1

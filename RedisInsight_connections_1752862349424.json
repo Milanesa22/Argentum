@@ -1,0 +1,46 @@
+[
+  {
+    "compressor": "NONE",
+    "id": "22342288-91cd-4662-add7-d54b679d285d",
+    "host": "redis-19257.c1.us-central1-2.gce.redns.redis-cloud.com",
+    "port": 19257,
+    "name": "Aurelius",
+    "db": null,
+    "username": null,
+    "password": "48DL3xbcWQ7nPsaVjNUAOnxMQ5E1xSaJ",
+    "connectionType": "STANDALONE",
+    "nameFromProvider": "Aurelius",
+    "provider": "RE_CLOUD",
+    "lastConnection": "2025-07-18T18:11:29.759Z",
+    "modules": [
+      {
+        "name": "searchlight",
+        "version": 21017
+      },
+      {
+        "name": "timeseries",
+        "version": 11206,
+        "semanticVersion": "1.12.6"
+      },
+      {
+        "name": "ReJSON",
+        "version": 20810,
+        "semanticVersion": "2.8.10"
+      },
+      {
+        "name": "bf",
+        "version": 20807,
+        "semanticVersion": "2.8.7"
+      }
+    ],
+    "tls": null,
+    "tlsServername": null,
+    "verifyServerCert": null,
+    "caCert": null,
+    "clientCert": null,
+    "ssh": null,
+    "sshOptions": null,
+    "forceStandalone": null,
+    "tags": []
+  }
+]
